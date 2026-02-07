@@ -1,6 +1,6 @@
-# Retail Data Foundation
+# Retail Data Platform
 
-Retail Data Foundation is an end-to-end data project that simulates a real-world retail system,
+Retail Data Platform is an end-to-end data project that simulates a real-world retail system,
 from transactional database design to analytics, data engineering, and AI-ready use cases.
 
 This repository is structured to reflect the **full lifecycle of data**:
@@ -81,7 +81,7 @@ Retail-Data-Foundation/
 
 ---
 
-# 📁 README KECIL PER FOLDER
+# README KECIL PER FOLDER
 
 ## 01-database/README.md
 
@@ -100,7 +100,7 @@ This module contains the transactional database design and data seeding logic.
 - Ready for analytics and ETL pipelines
 
 ### Status
-✅ Implemented
+Implemented
 ````
 
 ---
